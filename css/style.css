@@ -170,6 +170,12 @@ button:hover {
 
 .lb-data .lb-caption {
   font-size: 45px;
+  color: #454545;
+}
+
+.lb-data .lb-number {
+  font-size: 20px;
+  color: #454545;
 }
 
 .lb-nav a.lb-prev {
